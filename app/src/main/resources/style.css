@@ -1,0 +1,16 @@
+.button {
+    -fx-background-color: rgba(0,0,0,0);
+    -fx-background-radius: 0;
+}
+
+.button:hover {
+    -fx-background-color: rgba(200,200,200,1);
+}
+
+.button:pressed {
+    -fx-background-color: rgba(150,150,150,1);
+}
+
+.textfield {
+    -fx-background-radius: 0;
+}

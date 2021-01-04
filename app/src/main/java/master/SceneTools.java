@@ -1,0 +1,13 @@
+package master;
+
+public enum SceneTools {
+    RECTANGLE_TOOL,
+    ELIPSE_TOOL,
+    POLYGON_TOOL,
+    LOCKED_RECTANGLE_TOOL,
+    LOCKED_ELIPSE_TOOL,
+    LOCKED_POLYGON_TOOL,
+    MOVE_TOOL,
+    DELETE_TOOL,
+    POINT_LOCK_TOOL
+}
